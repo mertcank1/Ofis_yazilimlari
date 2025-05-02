@@ -1,6 +1,8 @@
 # Ofis_yazilimlari
 Ofis Yazılımları ÖDEV Hakkında
 
+Son Teslim Tarihi 12 Mayıs!
+
 1. KAPAK SAYFASI
 Genellikle ortalanmış olarak hazırlanır:
 
